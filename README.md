@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/%20-Open--Source--Internships-blueviolet.svg)
+![](https://img.shields.io/badge/%20-Open--Source.svg)
 
 # SOC-Programs
 [![GitHub issues](https://img.shields.io/github/issues/tapaswenipathak/Open-Source-Programs.svg)](https://github.com/tapaswenipathak/Open-Source-Programs/issues)
